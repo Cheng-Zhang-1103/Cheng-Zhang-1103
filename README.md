@@ -22,7 +22,7 @@
 ## 📈Statistics
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Cheng-Zhang-1103&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20211342&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Cheng-Zhang-1103&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cheng-Zhang-1103&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
     <span>&emsp;&emsp;</span>
 </div>
 
