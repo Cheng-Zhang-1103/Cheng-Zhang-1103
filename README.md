@@ -10,7 +10,7 @@
 - Projects:
     - [Dublin Bus](https://github.com/Cheng-Zhang-1103/dublin_bus)
     - [Dublin Bike](https://github.com/Cheng-Zhang-1103/dublin_bike)
-    - In progress...
+    - [Airbnb](https://github.com/Cheng-Zhang-1103/React-Project/tree/master)
     
 ## 🔧 Tools
 | ![Vue][Vue.js]  | ![Bootstrap][Bootstrap] | ![CSS3][CSS3] |
