@@ -8,10 +8,11 @@
 - 📖 I'm current learning: Vue.js, React, Node.js, JavaScript, Distributed Systems...
 - ⭐ How to reach me: https://www.linkedin.com/in/cheng-zhang-429b13249/
 - Projects:
-    - [Dublin Bus](https://github.com/Cheng-Zhang-1103/dublin_bus)
-    - [Dublin Bike](https://github.com/Cheng-Zhang-1103/dublin_bike)
     - [Airbnb](https://github.com/Cheng-Zhang-1103/React-Project/tree/master)
     - [Seckill](https://github.com/Cheng-Zhang-1103/Seckill-Project)
+    - [Dublin Bus](https://github.com/Cheng-Zhang-1103/dublin_bus)
+    - [Dublin Bike](https://github.com/Cheng-Zhang-1103/dublin_bike)
+
     
 ## 🔧 Tools
 | ![Vue][Vue.js]  | ![Bootstrap][Bootstrap] | ![CSS3][CSS3] |
