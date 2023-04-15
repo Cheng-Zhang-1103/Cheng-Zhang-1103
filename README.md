@@ -11,6 +11,7 @@
     - [Dublin Bus](https://github.com/Cheng-Zhang-1103/dublin_bus)
     - [Dublin Bike](https://github.com/Cheng-Zhang-1103/dublin_bike)
     - [Airbnb](https://github.com/Cheng-Zhang-1103/React-Project/tree/master)
+    - [Seckill](https://github.com/Cheng-Zhang-1103/Seckill-Project)
     
 ## 🔧 Tools
 | ![Vue][Vue.js]  | ![Bootstrap][Bootstrap] | ![CSS3][CSS3] |
