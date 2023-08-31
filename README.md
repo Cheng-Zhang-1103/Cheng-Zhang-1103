@@ -8,7 +8,7 @@
 - 📖 I'm current learning: Vue.js, React, Node.js, JavaScript, Distributed Systems...
 - ⭐ How to reach me: https://www.linkedin.com/in/cheng-zhang-429b13249/
 - Projects:
-    - [Airbnb](https://github.com/Cheng-Zhang-1103/React-Project/tree/master)
+    - [Airbnb]([https://github.com/Cheng-Zhang-1103/React-Project/tree/master](https://github.com/Cheng-Zhang-1103/Rental-Accommodation-Platform/tree/master))
     - [Seckill](https://github.com/Cheng-Zhang-1103/Seckill-Project)
     - [Dublin Bus](https://github.com/Cheng-Zhang-1103/dublin_bus)
     - [Dublin Bike](https://github.com/Cheng-Zhang-1103/dublin_bike)
